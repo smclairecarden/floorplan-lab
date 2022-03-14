@@ -8,10 +8,10 @@ const Kitchen = (props) => {
     <h2>
       Kitchen
     </h2>
-    <div>
+    <div className="oven">
     <Oven />
     </div>
-    <div>
+    <div className="sink">
     < Sink />
     </div>
     </>

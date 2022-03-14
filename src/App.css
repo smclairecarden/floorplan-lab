@@ -2,4 +2,29 @@ div {
   border: 1px solid grey;
   margin: 5px;
   padding: 5px;
+  color: white;
+}
+
+.bedroom {
+  background-color: #3b6280;
+}
+
+.kitchen {
+  background-color: #ed9b1f;
+}
+
+.living-room {
+  background-color: #d6b37e;
+}
+
+.bath {
+  background-color: #537d42;
+}
+
+.oven {
+  background-color: #a6330d;
+}
+
+.sink {
+  background-color: #784600;
 }
